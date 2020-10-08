@@ -1,2 +1,10 @@
 # revision-frontend-javascript
-Uma simples revisão de JavaScript
+Uma Revisão de JavaScript
+
+	- Fundamentos
+	- Funcoes
+	- Objetos
+	- Arrays
+	- Utilizando Browser
+	- jQuery
+	- Funções
