@@ -2,9 +2,9 @@
 Uma Revisão de JavaScript
 
 	- Fundamentos
-	- Funcoes
+	- Funções
 	- Objetos
 	- Arrays
 	- Utilizando Browser
 	- jQuery
-	- Funções
+	- Trabalhando com Eventos
