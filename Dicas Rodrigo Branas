@@ -1,0 +1,52 @@
+Regras de Criação de Variáveis em JavaScript
+	
+	- Devem começar por uma Letra, $(normalmente em caso de Frameworks AngularJs , JQuery) ou _(Normalmente em casos de membros privados)
+	- Após a primeira letra, podem conter números
+	- Por convenção, começa com letra minúscula e usa camelCase
+	- São case-sensitive(mesmo o HTML sendo case-insensitive)
+
+	Ex. de Declaração de Variáveis
+		
+		var name = "AgileCode"; ou 'AgileCode';
+		var top10 = [1,2,3,4,5,6,7,8,9,10]
+		var $scope = {title:'JavaScript', version:'6'};
+		var _person = "John";
+		var numberCode = 897987987;
+		var a=10, b=9, c=8;
+		var language;
+
+	Tipos de Dados (Number, String, Boolean)
+
+	Number
+
+		Só existe um tipo numérico na linguagem e ele tem as seguintes características:
+
+			- IEEE-754(Standard for Floating-Point)
+			- Binary64 ou Double Precision
+			- Cuidado com as Exceções
+				0.1+0.2 = Resíduo decorrente da operação binária com frações
+
+		Ex.
+			-01-trabalhando-com-numeros.js
+
+	String
+
+		Uma String é composta por uma sequência de 0 ou mais caracteres com as seguintes características:
+			- São Imutáveis
+			- Podem ser declaradas com aspas simples(' ') ou duplas(" ")
+
+		Ex.
+			-02-trabalhando-com-strings.js
+
+
+	Boolean
+
+		Continuar Daqui
+
+		Ex.
+			-03-trabalhando-com-boolean.js
+
+
+
+
+

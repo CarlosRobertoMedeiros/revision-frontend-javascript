@@ -1,10 +1,18 @@
 # revision-frontend-javascript
 Uma Revisão de JavaScript
 
-	- Fundamentos
-	- Funções
-	- Objetos
-	- Arrays
-	- Utilizando Browser
-	- jQuery
-	- Trabalhando com Eventos
+	Java Script Básico (Algaworks)
+
+		- Fundamentos
+		- Funções
+		- Objetos
+		- Arrays
+		- Utilizando Browser
+		- jQuery
+		- Trabalhando com Eventos
+		- Funções e Objetos
+
+	Evolução Simples (Rodrigo Branas)
+
+
+
