@@ -41,10 +41,33 @@ Regras de Criação de Variáveis em JavaScript
 
 	Boolean
 
-		Continuar Daqui
+		A linguagem JS assume o estado de determinados tipos como true ou false, dependendo do caso.
 
 		Ex.
 			-03-trabalhando-com-boolean.js
+
+	Null e Undefined
+
+		O tipo undefined é retornado caso uma propriedade de um determinado objeto seja consultada e não exista
+		O tipo null indica a ausência de valor em uma determinada propriedade já existente
+
+		Ex.
+			-04-trabalhando-com-null-e-undefined.js
+
+	Object
+
+		Um objeto em Javascript é uma coleção dinâmica de chaves e valores de qualquer tipo de dado.
+		É possível adicionar ou remover prorpriedades a qualquer momento
+
+		Ex.
+			-05-trabalhando-com-objetos.js
+
+	Function
+		Continuar daqui (Vídeo 7)
+		Link: https://www.youtube.com/watch?v=OqR0hE-DQn4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=7
+
+
+
 
 
 
