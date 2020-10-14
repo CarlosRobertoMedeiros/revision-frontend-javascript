@@ -66,6 +66,27 @@ Regras de Criação de Variáveis em JavaScript
 		Continuar daqui (Vídeo 7)
 		Link: https://www.youtube.com/watch?v=OqR0hE-DQn4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=7
 
+		A linguagem JS não tem 
+			- Classe
+			- Construtor
+			- Método
+			- Módulo
+		
+		As funções são responsáveis pelo poder da linguagem JavaScript
+			Uma função é um objeto que contém um bloco de código executável.
+			Esse bloco é isolado, não sendo possível acessá-lo externamente.
+			Na linguagem as funções são de primeira classe ou seja, podem ser atribuidas
+			a uma variável, passada como parâmetro ou ser retornada de uma outra função.
+
+		Ex.
+			-01-trabalhando-com-funcoes.js
+			-02-trabalhando-com-funcoes.js
+
+
+
+
+
+
 
 
 
