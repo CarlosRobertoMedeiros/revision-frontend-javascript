@@ -63,8 +63,6 @@ Regras de Criação de Variáveis em JavaScript
 			-05-trabalhando-com-objetos.js
 
 	Function
-		Continuar daqui (Vídeo 7)
-		Link: https://www.youtube.com/watch?v=OqR0hE-DQn4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=7
 
 		A linguagem JS não tem 
 			- Classe
@@ -82,8 +80,33 @@ Regras de Criação de Variáveis em JavaScript
 			-01-trabalhando-com-funcoes.js
 			-02-trabalhando-com-funcoes.js
 
-		Trabalhando Com Arrays
-			Continuar daqui: https://www.youtube.com/watch?v=oUx0leLZSbY&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=9
+		
+
+	Arrays
+
+		Não existem Arrays na Linguagem JS.
+		Os Arrays são apenas objetos especiais que oferecem meios para acessar e manipular suas propriedades por mio de índices.
+		Não se esquecer que o Array não tem tamanho fixo e o tamanho inicial é apenas uma forma de inicializá-lo
+
+
+	Expressões Regulares
+
+		Expressões Regulares são estruturas formadas por uma sequência de caracteres que especificam um padrão formal.
+			Usada para realizar a validação de campos
+			Usada para realizar a Extração de Dados
+			Usada para realizar a substituição de caracteres em textos
+
+	Trabalhando com Datas
+		Apesar de parecer simples a data é representada pela quantidade de milissegundos desde o início da Era Unix,
+		tendo inicio em 1 de janeiro de 1970 00:00:00 a partir do UTC(Tempo Universal Coordenado)
+		Ex. trabalhando-com-datas.js
+
+
+
+
+
+
+
 
 
 		Implementando os Design Patterns utilizando JavaScript (Implementar ao Final do RB)
