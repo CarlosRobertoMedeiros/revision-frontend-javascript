@@ -102,7 +102,20 @@ Regras de Criação de Variáveis em JavaScript
 		Ex. trabalhando-com-datas.js
 
 	Operadores
-		Continuar daqui https://www.youtube.com/watch?v=lqTjJGQCq_4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=12
+		Cuidado com os operadores de comparação == e !=
+		O comportamento destes operadores pode produzir resultados inesperados por conta
+		da coersão de tipos
+
+
+	Estruturas
+		for, if, else, continue, while, switch, break, throw, try e catch
+
+	Herança
+		Parte 1
+			Um objeto é uma coleção dinâmica de chaves e valores, que podem 
+		ser de qualquer tipo, e um protótipo que pode ser um objeto ou null
+
+
 
 
 
