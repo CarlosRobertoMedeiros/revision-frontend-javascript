@@ -1,6 +1,8 @@
 # revision-frontend-javascript
 Uma Revisão de JavaScript
 
+	Ecma Script 5
+
 	Java Script Básico (Algaworks)
 
 		- Fundamentos
@@ -12,7 +14,18 @@ Uma Revisão de JavaScript
 		- Trabalhando com Eventos
 		- Funções e Objetos
 
-	Evolução Simples (Rodrigo Branas)
+	Java Script Básico (Rodrigo Branas)
+		
+		- Fundamentos
+		- Funções
+		- Arrays
+		- Expressões Regulares
+		- Trabalhando com Datas
+		- Operadores
+		- Estruturas
+		- Herança
+
+	
 
 
 
